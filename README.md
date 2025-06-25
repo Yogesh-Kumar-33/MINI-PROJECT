@@ -16,7 +16,7 @@ A classic Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Ch
 
 ## 🚀 Live Demo
 
-👉 [Play Now](https://yourusername.github.io/tic-tac-toe/)  
+👉 [Play Now](https://github.com/Yogesh-Kumar-33/MINI-PROJECT/tree/main/TIC-TAC-TOE)  
 (Replace the link with your actual deployed URL)
 
 ---
@@ -25,7 +25,7 @@ A classic Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Ch
 
 | Game Start | Game Win |
 |------------|----------|
-| ![Start](screenshots/start.png) | ![Win](screenshots/win.png) |
+| ![Start](start.jpg) | ![Win](win.jpg) |
 
 _Add screenshots in a folder named `screenshots/` in your repo._
 
