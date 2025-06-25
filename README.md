@@ -39,4 +39,25 @@ _Add screenshots in a folder named `screenshots/` in your repo._
 ---
 
 ## 📂 Folder Structure
+tic-tac-toe/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+---
+
+## 🧑‍💻 Author
+
+- 👨‍💻 **Yogesh Kumar**
+- 🎓 B.Tech CSE | UEM Jaipur | 5th Sem
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yogesh-kumar-2223b42a2/?trk=public-profile-join-page)  
+- 🐱 [GitHub](https://github.com/Yogesh-Kumar-33/MINI-PROJECT)
+
+---
+
+## ❤️ Like this project?
+
+Give it a ⭐ on GitHub — it motivates me to build more cool stuff!
+
 
