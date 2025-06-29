@@ -25,7 +25,7 @@ A classic Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Ch
 
 | Game Start | Game Win |
 |------------|----------|
-| ![Start](start.jpg) | ![Win](win.jpg) |
+| ![Start](./imgs/start.jpg) | ![Win](./imgs/win.jpg) |
 
 _Add screenshots in a folder named `screenshots/` in your repo._
 
@@ -40,9 +40,9 @@ _Add screenshots in a folder named `screenshots/` in your repo._
 
 ## 📂 Folder Structure
 tic-tac-toe/
-├── index.html
-├── style.css
-├── script.js
+├── TIC-TAC-TOE.html
+├── TIC-TAC-TOE.css
+├── TIC-TAC-TOE.js
 └── README.md
 
 ---
