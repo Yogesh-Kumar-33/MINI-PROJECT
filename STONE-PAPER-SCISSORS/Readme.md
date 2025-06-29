@@ -16,7 +16,7 @@ A fun and interactive **Stone-Paper-Scissors** game built with **HTML**, **CSS**
 
 ## 🚀 Live Demo
 
-👉 [Play Now]()  
+👉 [Play Now](https://github.com/Yogesh-Kumar-33/MINI-PROJECT/tree/main/STONE-PAPER-SCISSORS)  
 _(Replace with your actual deployed URL)_
 
 ---
@@ -25,7 +25,7 @@ _(Replace with your actual deployed URL)_
 
 | Game Start | Playing | Result |
 |------------|---------|--------|
-| ![Start](screenshots/start.png) | ![Playing](screenshots/playing.png) | ![Result](screenshots/result.png) |
+| ![Start](./Game_SS/reset.jpg) | ![Playing](./Game_SS/win.jpg) | ![Result](./Game_SS/loss.jpg) | ![Result](./Game_SS/Draw.jpg)
 
 ---
 
