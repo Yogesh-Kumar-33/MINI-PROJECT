@@ -25,7 +25,7 @@ _(Replace with your actual deployed URL)_
 
 | Game Start | Playing | Result |
 |------------|---------|--------|
-| ![Start](./Game_SS/reset.jpg) | ![Playing](./Game_SS/win.jpg) | ![Result](./Game_SS/loss.jpg) | ![Result](./Game_SS/Draw.jpg)
+| ![Start](./STONE-PAPER-SCISSORS/Game_SS/reset.jpg) | ![Playing](./STONE-PAPER-SCISSORS/Game_SS/win.jpg) | ![Result](./STONE-PAPER-SCISSORS/Game_SS/loss.jpg) | ![Result](./STONE-PAPER-SCISSORS/Game_SS/Draw.jpg)
 
 ---
 
